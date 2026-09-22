@@ -1,6 +1,6 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/workup-voice) · [Workup Outbound](https://github.com/musabqazi/workup-outbound) · [Workup Operator](https://github.com/musabqazi/workup-operator)
+**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/voice-receptionist) · [Workup Outbound](https://github.com/musabqazi/outbound-engine) · [Workup Operator](https://github.com/musabqazi/browser-operator)
 
 # Workup Chat — WhatsApp support and lead-qualification agent
 
