@@ -1,8 +1,8 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/voice-receptionist) · [Workup Outbound](https://github.com/musabqazi/outbound-engine) · [Workup Operator](https://github.com/musabqazi/browser-operator)
+**[← All systems](https://github.com/musabqazi)** · [Voice Receptionist](https://github.com/musabqazi/voice-receptionist) · [Outbound Engine](https://github.com/musabqazi/outbound-engine) · [Browser Operator](https://github.com/musabqazi/browser-operator)
 
-# Workup Chat — WhatsApp support and lead-qualification agent
+# WhatsApp Agent — WhatsApp support and lead-qualification agent
 
 A WhatsApp agent that answers from the business's own knowledge (RAG with citations kept for
 the operator), qualifies leads with a per-tenant playbook, books or takes orders, and hands
@@ -15,7 +15,7 @@ real retrieval + grounding logic over the demo salon's knowledge base. **Spec:**
 
 ## Dashboard
 
-<img src="screenshots/01-dashboard.png" alt="Workup Chat — WhatsApp support and lead-qualification agent dashboard" width="100%"/>
+<img src="screenshots/01-dashboard.png" alt="WhatsApp Agent — WhatsApp support and lead-qualification agent dashboard" width="100%"/>
 <sub>The operator's view of the WhatsApp agent: conversations, qualification state, and the citations kept behind every answer.</sub>
 
 ## The problem
@@ -47,4 +47,4 @@ the Gulf, WhatsApp is the front door.
 The live demo runs on **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in the demo or in this repository, and the implementation is private.
 
 ---
-<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · A <b>Workup Solutions</b> product · source private. © 2026 Musab Qazi</sub>
+<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · source private. © 2026 Musab Qazi</sub>
