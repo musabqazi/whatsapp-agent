@@ -11,7 +11,7 @@ Arabic. Multi-tenant.
 
 real retrieval + grounding logic over the demo salon's knowledge base. **Spec:** [SPEC.md](SPEC.md)
 
-🟢 **Live demo:** https://workup-chat.vercel.app · **Source:** private, available on request
+**Source:** private, available on request
 
 ## Dashboard
 
@@ -44,7 +44,7 @@ the Gulf, WhatsApp is the front door.
 
 ## A note on what you can see here
 
-The live demo runs on **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in the demo or in this repository, and the implementation is private.
+Screenshots in this repository use **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in this repository, and the implementation is private.
 
 ---
 <sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · source private. © 2026 Musab Qazi</sub>
